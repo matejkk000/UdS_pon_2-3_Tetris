@@ -1,2 +1,2 @@
 Projekt Tetris – vetva Jakub
-Tento commit vytvoril Jakub, úpravy v SpravcaSkore a dokumentácii.
+úpravy v SpravcaSkore a dokumentácii.
