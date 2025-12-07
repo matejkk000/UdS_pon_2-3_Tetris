@@ -1,2 +1,2 @@
-Projekt Tetris – vetva Jakub
+Projekt Tetris 
 úpravy v SpravcaSkore a dokumentácii.
